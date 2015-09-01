@@ -1,0 +1,7 @@
+% layout 'default';
+
+<form class="form" method="POST" action="/search">
+    <div class="row form-group col-sm-12">
+      <input type="text" name="q" id="q" class="form-control input-lg" placeholder="Search..."/>
+    </div>
+</form>
